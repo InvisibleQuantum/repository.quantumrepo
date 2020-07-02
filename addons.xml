@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-	<addon id="repository.quantumrepo" name="QuantumRepo" provider-name="InvisibleQuantum" version="0.0.6">
+	<addon id="repository.quantumrepo" name="QuantumRepo" provider-name="InvisibleQuantum" version="0.0.7">
 	<extension point="xbmc.addon.repository" name="QuantumRepo">
 		<dir>
 		<info compressed="false">https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml</info>
@@ -30,8 +30,8 @@
 			</assets>
 		<website>https://www.youtube.com/user/InvisibleQuantum/</website>
 		<source>https://github.com/InvisibleQuantum/repository.quantumrepo/</source>
-		<news>v0.0.6  (2020-7-02)
-			- Add Repository to Github</news>
+		<news>v0.0.7  (2020-7-02)
+- Add Repository to Github</news>
 	</extension>
 	</addon>
 </addons>
