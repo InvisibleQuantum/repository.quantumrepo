@@ -27,8 +27,70 @@
 		</assets>
 		<website>https://www.youtube.com/user/InvisibleQuantum/</website>
 		<source>https://github.com/InvisibleQuantum/repository.quantumrepo/</source>
-		<news>v0.0.8  (2020-7-02) - Add Repository to Github</news>
-		<news>v0.0.8  (2020-7-02) - Add Repository to Github</news>
+		<news>v0.0.8  (2020-7-02)
+- Add Repository to Github</news>
+	</extension>
+	</addon>
+	<addon id="repository.quantumrepo" name="QuantumRepo" provider-name="InvisibleQuantum" version="0.0.7">
+	<extension point="xbmc.addon.repository" name="QuantumRepo">
+		<dir>
+		<info compressed="false">https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/InvisibleQuantum/repository.quantumrepo/tree/master/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+			<summary lang="de">InvisibleQuantum Kodi Repository</summary>
+			<summary lang="en">InvisibleQuantum Kodi Repository</summary>
+			<description lang="de">InvisibleQuantum Kodi Repository</description>
+			<description lang="en">InvisibleQuantum Kodi Repository</description>
+			<disclaimer lang="de">Fehler oder andere Anfragen hier melden: https://youtube.com/InvisibleQuantum/</disclaimer>
+			<disclaimer lang="en">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
+		<license>Apache License 2.0</license>
+		<language>de en</language>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.png</fanart>
+			<screenshot>resources/fanart.png</screenshot>
+			<screenshot>resources/fanart.png</screenshot>
+			<screenshot>resources/fanart.png</screenshot>
+		</assets>
+		<website>https://www.youtube.com/user/InvisibleQuantum/</website>
+		<source>https://github.com/InvisibleQuantum/repository.quantumrepo/</source>
+		<news>v0.0.8  (2020-7-02)
+- Add Repository to Github</news>
+	</extension>
+	</addon>
+	<addon id="repository.quantumrepo" name="QuantumRepo" provider-name="InvisibleQuantum" version="0.0.6">
+	<extension point="xbmc.addon.repository" name="QuantumRepo">
+		<dir>
+		<info compressed="false">https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/InvisibleQuantum/repository.quantumrepo/tree/master/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+			<summary lang="de">InvisibleQuantum Kodi Repository</summary>
+			<summary lang="en">InvisibleQuantum Kodi Repository</summary>
+			<description lang="de">InvisibleQuantum Kodi Repository</description>
+			<description lang="en">InvisibleQuantum Kodi Repository</description>
+			<disclaimer lang="de">Fehler oder andere Anfragen hier melden: https://youtube.com/InvisibleQuantum/</disclaimer>
+			<disclaimer lang="en">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
+		<license>Apache License 2.0</license>
+		<language>de en</language>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.png</fanart>
+			<screenshot>resources/fanart.png</screenshot>
+			<screenshot>resources/fanart.png</screenshot>
+			<screenshot>resources/fanart.png</screenshot>
+		</assets>
+		<website>https://www.youtube.com/user/InvisibleQuantum/</website>
+		<source>https://github.com/InvisibleQuantum/repository.quantumrepo/</source>
+		<news>v0.0.8  (2020-7-02)
+- Add Repository to Github</news>
 	</extension>
 	</addon>
 </addons>
