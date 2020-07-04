@@ -57,8 +57,8 @@
 <addon id="repository.slyguy" name="SlyGuy Repository" provider-name="SlyGuy" version="0.0.2">
   <extension point="xbmc.addon.repository" name="SlyGuy Repository">
     <dir>
-      <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
-      <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
+	<info compressed="false">https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml.md5</checksum>
       <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
     </dir>
   </extension>
