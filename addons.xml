@@ -31,19 +31,14 @@
 	</addon>
 	
 	<addon id="repository.quantumrepo.android" name="QuantumRepo | Android" provider-name="InvisibleQuantum" version="0.0.1">
-	<extension point="xbmc.addon.repository" name="QuantumRepo">
-		<dir>
-		<info compressed="false">https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/InvisibleQuantum/repository.quantumrepo/tree/master/</datadir>
-		</dir>
+	<extension point="xbmc.addon.repository" name="QuantumRepo | Android">
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>android</platform>
 			<summary lang="de">InvisibleQuantum Kodi Repository | Android</summary>
-			<summary lang="en">InvisibleQuantum Kodi Repository | only Android</summary>
+			<summary lang="en">InvisibleQuantum Kodi Repository | Android</summary>
 			<description lang="de">InvisibleQuantum Kodi Repository | Android</description>
-			<description lang="en">InvisibleQuantum Kodi Repository | only Android</description>
+			<description lang="en">InvisibleQuantum Kodi Repository | Android</description>
 			<disclaimer lang="de">Fehler oder andere Anfragen hier melden: https://youtube.com/InvisibleQuantum/</disclaimer>
 			<disclaimer lang="en">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
 		<license>Apache License 2.0</license>
