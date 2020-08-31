@@ -30,7 +30,7 @@
 				<screenshot>resources/fanart.png</screenshot>
 				<screenshot>resources/fanart.png</screenshot>
 			</assets>
-			<size>155264</size>
+			<size>-</size>
 			<path>repository.quantumrepo/repository.quantumrepo-0.2.0.zip</path>
 		</extension>
 	</addon>
@@ -59,7 +59,7 @@
 				<screenshot>resources/fanart.png</screenshot>
 				<screenshot>resources/fanart.png</screenshot>
 			</assets>
-			<size>589697</size>
+			<size>-</size>
 			<path>repository.quantumrepo.android/repository.quantumrepo.android-0.1.0.zip</path>
 		</extension>
 	</addon>
