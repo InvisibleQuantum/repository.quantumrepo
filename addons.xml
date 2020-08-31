@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <addons>
+<!--QuantumRepo-->
 	<addon id="repository.quantumrepo" version="0.2.0" name="QuantumRepo" provider-name="InvisibleQuantum">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
@@ -22,7 +23,7 @@
 			<disclaimer lang="en_GB">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
 			<disclaimer lang="en_US">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
 			<platform>all</platform>
-			<source>https://github.com/InvisibleQuantum/repository.quantumrepo/</source>
+			<source>https://github.com/InvisibleQuantum/repository.quantumrepo/repository.quantumrepo/</source>
 			<assets>
 				<icon>resources/icon.png</icon>
 				<fanart>resources/fanart.png</fanart>
@@ -34,6 +35,7 @@
 			<path>repository.quantumrepo/repository.quantumrepo-0.2.0.zip</path>
 		</extension>
 	</addon>
+<!--QuantumRepo | Android-->
 	<addon id="repository.quantumrepo.android" version="0.1.0" name="QuantumRepo | Android" provider-name="InvisibleQuantum">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
@@ -51,7 +53,7 @@
 			<disclaimer lang="en_GB">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
 			<disclaimer lang="en_US">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
 			<platform>android</platform>
-			<source>https://github.com/InvisibleQuantum/repository.quantumrepo.android/</source>
+			<source>https://github.com/InvisibleQuantum/repository.quantumrepo/repository.quantumrepo.android/</source>
 			<assets>
 				<icon>resources/icon.png</icon>
 				<fanart>resources/fanart.png</fanart>

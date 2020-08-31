@@ -8,10 +8,10 @@
 	<import addon="repository.quantumrepo" minversion="0.2.0" version="0.2.0"/>
   </requires>
 	<extension point="xbmc.addon.repository" name="QuantumRepo | Android">
-		<info>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo.android/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo.android/master/addons.xml.md5</checksum>
-		<datadir>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo.android/master/</datadir>
-		<artdir>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo.android/master/</artdir>
+		<info>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/Android/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/master/addons.xml.md5</checksum>
+		<datadir>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/Android/master/</datadir>
+		<artdir>https://raw.githubusercontent.com/InvisibleQuantum/repository.quantumrepo/Android/master/</artdir>
 		<hashes>false</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
