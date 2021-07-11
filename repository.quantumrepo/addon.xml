@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.quantumrepo"
 		name="QuantumRepo"
-		version="0.2.0"
+		version="0.3.1"
 		provider-name="InvisibleQuantum">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -20,9 +20,9 @@
 		<description lang="de_DE">InvisibleQuantum Kodi Repository</description>
 		<description lang="en_GB">InvisibleQuantum Kodi Repository</description>
 		<description lang="en_US">InvisibleQuantum Kodi Repository</description>
-		<disclaimer lang="de_DE">Fehler oder andere Anfragen hier melden: https://youtube.com/InvisibleQuantum/</disclaimer>
-		<disclaimer lang="en_GB">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
-		<disclaimer lang="en_US">Report bugs or other requests here: https://youtube.com/InvisibleQuantum/</disclaimer>
+		<disclaimer lang="de_DE">Fehler oder andere Anfragen hier melden: https://github.com/InvisibleQuantum/repository.quantumrepo/issues/</disclaimer>
+		<disclaimer lang="en_GB">Report bugs or other requests here: https://github.com/InvisibleQuantum/repository.quantumrepo/issues/</disclaimer>
+		<disclaimer lang="en_US">Report bugs or other requests here: https://github.com/InvisibleQuantum/repository.quantumrepo/issues/</disclaimer>
 		<platform>all</platform>
 		<assets>
 			<icon>resources/icon.png</icon>
