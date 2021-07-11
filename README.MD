@@ -1,9 +1,9 @@
 # QuantumRepo
 InvisibleQuantum Kodi Repository
 
-![](https://img.shields.io/github/release/InvisibleQuantum/repository.quantumrepo.svg)
-![GitHub all releases](https://img.shields.io/github/downloads/InvisibleQuantum/repository.quantumrepo/total?logoColor=red)
-[![Installs](https://img.shields.io/github/downloads/invisiblequantum/repository.quantumrepo/total?color=blue&label=Downloads&style=flat-square)](#)<br>
+
+[![Downloads](https://img.shields.io/github/downloads/invisiblequantum/repository.quantumrepo/total?color=blue&label=Downloads&style=flat-square)](#)<br>
+[![Version](https://img.shields.io/github/v/release/InvisibleQuantum/repository.quantumrepo?color=blue&label=Version&style=flat-square)](#)<br>
 
 # QuantumRepo Android
 InvisibleQuantum Kodi Repository speziell für Android und Android TV Apps
