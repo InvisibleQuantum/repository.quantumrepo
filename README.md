@@ -14,4 +14,4 @@ InvisibleQuantum Kodi Repository speziell für Android und Android TV Apps
 [![Last](https://img.shields.io/github/release-date/InvisibleQuantum/repository.quantumrepo.android?color=blue&label=Letztes%20Update)](#)<br>
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="drawing" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="drawing" width="16"/>
