@@ -36,7 +36,7 @@
 		</extension>
 	</addon>
 <!--QuantumRepo Android-->
-	<addon id="repository.quantumrepo.android" version="0.1.1" name="QuantumRepo Android" provider-name="InvisibleQuantum">
+	<addon id="repository.quantumrepo.android" version="0.1.2" name="QuantumRepo Android" provider-name="InvisibleQuantum">
 		<requires>
 			<import addon="xbmc.addon" version="12.0.0"/>
 			<import addon="repository.quantumrepo" minversion="0.2.0" version="0.2.0"/>
@@ -62,7 +62,7 @@
 				<screenshot>resources/fanart.png</screenshot>
 			</assets>
 			<size>-</size>
-			<path>repository.quantumrepo.android/repository.quantumrepo.android-0.1.1.zip</path>
+			<path>repository.quantumrepo.android/repository.quantumrepo.android-0.1.2.zip</path>
 		</extension>
 	</addon>
 </addons>
