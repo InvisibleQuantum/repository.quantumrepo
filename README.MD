@@ -2,7 +2,7 @@
 InvisibleQuantum Kodi Repository
 
 
-[![Downloads](https://img.shields.io/github/downloads/invisiblequantum/repository.quantumrepo/total?color=important&label=Downloads&style=flat-square)](#)<br>
+[![Downloads](https://img.shields.io/github/downloads/invisiblequantum/repository.quantumrepo/total?color=important&label=Downloads&style=flat-square)](https://github.com/InvisibleQuantum/repository.quantumrepo/releases)<br>
 [![Version](https://img.shields.io/github/v/release/InvisibleQuantum/repository.quantumrepo?color=blue&label=Version&style=flat-square)](#)
 [![Last](https://img.shields.io/github/release-date/InvisibleQuantum/repository.quantumrepo?color=blue&label=Letztes%20Update)](#)<br>
 
